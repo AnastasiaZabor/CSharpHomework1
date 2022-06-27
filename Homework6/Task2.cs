@@ -6,7 +6,15 @@ namespace Homework6
     {
         public static void Execute()
         {
-            Point p = CrossOfTwoLines(5, 2, 9, 4);
+            Console.WriteLine("Enter k1");
+            int.TryParse(Console.ReadLine(), out int k1);
+            Console.WriteLine("Enter b1");
+            int.TryParse(Console.ReadLine(), out int b1);
+            Console.WriteLine("Enter k2");
+            int.TryParse(Console.ReadLine(), out int k2);
+            Console.WriteLine("Enter b2");
+            int.TryParse(Console.ReadLine(), out int b2);
+            Point p = CrossOfTwoLines(k1,b1,k2,b2);
             Console.WriteLine(p.Print());
         }
 
