@@ -7,10 +7,18 @@
     <projectFile>Homework4/Homework4.csproj</projectFile>
     <projectFile>Homework5/Homework5.csproj</projectFile>
     <projectFile>Homework6/Homework6.csproj</projectFile>
+    <projectFile>Homework7/Homework7.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="519d326a-2d1b-42fc-b996-268c8bf2899e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Homework6/Task2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Homework6/Task2.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework7/Homework7.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework7/Matrixes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework7/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework7/Task1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework7/Task2.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework7/Task3.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharpHomework1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharpHomework1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSharpHomework1.sln" beforeDir="false" afterPath="$PROJECT_DIR$/CSharpHomework1.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +43,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.Homework6">
+  <component name="RunManager" selected=".NET Project.Homework7">
     <configuration name="CSharpHomework1" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -144,6 +152,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="Homework7" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Homework7/Homework7.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -157,7 +183,8 @@
       <workItem from="1655294362330" duration="9784000" />
       <workItem from="1655609766312" duration="4351000" />
       <workItem from="1655643776246" duration="7942000" />
-      <workItem from="1656301828087" duration="9636000" />
+      <workItem from="1656301828087" duration="9895000" />
+      <workItem from="1656478247846" duration="8832000" />
     </task>
     <servers />
   </component>
